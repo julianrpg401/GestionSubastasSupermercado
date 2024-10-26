@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace GestionSubastasSupermercado
 {
-    internal class Espectador
+    internal class Espectador : Usuario
     {
     }
 }
